@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/bg_pet.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-white{
+    padding-top: 10px;
+    background-color: white;
+}
+
+.product-price:hover{
+    color: rgb(218, 32, 32);
+    cursor: pointer;
+}
+
+h1{
+    background-color: rgb(240, 131, 53);
+    border-radius: 5px;
+    padding: 10px;
+}
